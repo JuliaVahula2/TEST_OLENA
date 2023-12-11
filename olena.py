@@ -1,6 +1,8 @@
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import*
 
+
+Створення додатка
 app=QApplication([])
 win=QWidget()
 
